@@ -1,5 +1,5 @@
 # tetris
-Tetris applicatie voor infodag
+Tetris applicatie voor infodag Howest
 
 jupyter notebook : tetris.ipynb
 
